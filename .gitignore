@@ -1,0 +1,17 @@
+.DS_Store
+.local/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+data/
+checkpoints/
+artifacts/
+*.wav
+*.mp4
+*.fastq
+*.fastq.gz
+*.bam
+*.pt
+*.pth
