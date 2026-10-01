@@ -12,6 +12,8 @@
 - [프로토콜 카드](templates/protocol-card.md), [실험 숙련표](templates/skill-matrix.md), [논술 기록](templates/essay-review.md), [주간 보고서](templates/weekly-report.md).
 - [선택 ML·DL 심화 자료](docs/ml_dl_depth_plan.md): 필요할 때 해당 부분을 참고. 이전의 주 20시간 ML 시간표는 현재 필수 일정이 아니다.
 
+별도 입문 과정: [완전 초보 친구를 위한 ML 16주](friends/ml-beginner/README.md). 코딩 기초부터 시작하는 주 8시간 과정이며 위 연구자용 52주 계획과 별개다.
+
 **주 60시간.** 같은 시간을 중복 계산하지 않는다.
 
 | 활동 | 시간 |
