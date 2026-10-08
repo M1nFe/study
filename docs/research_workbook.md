@@ -2,7 +2,7 @@
 
 2026-10-01 추가: 실험의 단계별 이유와 실패 진단은 [프로토콜 카드](../templates/protocol-card.md), 실제 수행 수준은 [숙련표](../templates/skill-matrix.md), 인문논술 초고·퇴고는 [논술 기록](../templates/essay-review.md)에 남긴다. 현재 시간 배분은 [연구 방향](research_orientation.md)을 따른다.
 
-**이번 실행의 기준:** [52주 상세 계획](../curriculum.md)에 교재 범위·요일별 활동·과제·통과 기준을 정리했다. 아래의 큰 일정과 주차 순서가 다르면 상세 계획을 따른다. 실제 시작일에 맞춰 달력 날짜를 이동한다.
+**현재 실행 기준(2026-10-08):** [8주 집중 과정과 52주 기초](../curriculum.md), [SoundWel 실행 명세](soundwel_execution.md), [주간 연구 점검](../templates/research-weekly-checkpoint.md)을 우선한다. 아래 양식은 필요한 부분만 재사용한다.
 
 사용법: 아래 양식을 프로젝트마다 복사한다. `[ ]`는 아직 확인되지 않은 항목이다. AI가 채운 답도 원자료·원문·실행 결과와 대조하기 전까지는 확인된 사실로 표시하지 않는다. 전체 일정은 [roadmap.md](roadmap.md)에 있다.
 
