@@ -1,5 +1,7 @@
 **SoundWel 검증 → 원고 → 음성·행동 후속 연구 가이드맵**
 
+**2026-10-12 현재 우선순위:** [현장 없는 맥락 전이 실험](context_transfer_design.md)과 [개정 커리큘럼](../curriculum.md)을 따른다. 아래 10월 8일 연구 프로그램은 배경과 이전 계획이다. 현장 수집은 현재 원고의 완료 조건이 아니다.
+
 [시작](../README.md) · [커리큘럼](../curriculum.md) · [실행 명세](soundwel_execution.md) · [Lee 2024 연결](lee2024_bridge.md) · [진도](../progress.md)
 
 2026-10-08. 가장 빠른 경로는 **공개자료의 작은 비교를 끝내면서 Methods와 그림을 동시에 만드는 것**이다. 조직·RNA·세포배양 전 과정을 선행 조건으로 두지 않는다. 지금 필요한 지식은 실험 단위, 음향 특징, 그룹 평가, 반복 측정과 불확실성, 행동 관찰의 정의다.
@@ -27,7 +29,9 @@ flowchart LR
 
 기존 조직·분자 실험 의무와 확보된 시료는 별도 연구 블록에서 유지한다. P1 리뷰와 P3 조직 원고는 확보된 증거를 정리하되, 이번 8주에 세 편을 모두 완성할 목표는 두지 않는다.
 
-**첫 원고의 세 질문.** 가제: *Context-associated acoustic features in pig vocalisations: sensitivity to grouping and evaluation design in SoundWel.*
+**2026-10-12 현재 첫 원고:** [맥락 전이 프로토콜](context_transfer_design.md)의 H1 학습 맥락 차이와 H2 특징 추가 효과를 우선한다. 동복 제외 5-fold·20회 기본 분석이며 현장 수집은 필수 조건이 아니다. 아래 세 질문·일정은 이전 계획의 이력이고 현재 구체적 순서는 새 프로토콜과 개정 커리큘럼을 따른다.
+
+**이전 첫 원고의 세 질문.** 가제: *Context-associated acoustic features in pig vocalisations: sensitivity to grouping and evaluation design in SoundWel.*
 
 | 질문 | 최소 비교 | 보고할 것 |
 |---|---|---|
