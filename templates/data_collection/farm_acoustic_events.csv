@@ -1,0 +1,1 @@
+scene_event_id,scene_id,onset_at,offset_at,primary_camera_id,primary_detected,source_scope,source_pen_id,source_evidence,source_confidence,event_type,event_status,call_count,overlap,clipping,noise_level,boundary_truncated,event_confidence,rater_id,annotation_version

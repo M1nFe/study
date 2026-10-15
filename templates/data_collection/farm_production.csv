@@ -1,0 +1,1 @@
+production_record_id,source_id,scene_id,pen_id,animal_id,measurement_unit,measured_at,interval_start,interval_end,variable,value,unit,measurement_method,feed_batch_id,n_present,missing_reason

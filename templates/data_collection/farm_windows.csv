@@ -1,0 +1,1 @@
+window_id,session_id,scene_id,pen_id,feeding_id,window_type,start_at,end_at,roi_version,planned_s,valid_video_s,valid_audio_s,valid_joint_s,valid_scans,n_present,neighbor_feeding_exposure,neighbor_feeding_ids,noise_context,primary_audio_camera,paired_eligible,exclusion_reason,annotation_version

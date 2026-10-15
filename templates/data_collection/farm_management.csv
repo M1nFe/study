@@ -1,0 +1,1 @@
+management_id,scene_id,pen_id,started_at,ended_at,event_type,description,n_present_after,temperature_c,rh_percent,environment_measurement_source,discovered_at,resolved_at,recorder_id
