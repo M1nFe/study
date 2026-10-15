@@ -1,0 +1,1 @@
+run_id,study,run_kind,protocol_version,code_commit,environment_version,input_hash,split_hash,config_hash,seed,fold,arm,feature_set,started_at,ended_at,status,output_relative_path,warning_or_error

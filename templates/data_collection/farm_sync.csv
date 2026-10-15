@@ -1,0 +1,1 @@
+sync_id,camera_id,clock_epoch_id,stream,anchor_id,anchor_role,reference_event_id,reference_time,device_time,reference_uncertainty_s,method,offset_s,drift_s_per_hour,origin_device_time,valid_from_device_time,valid_to_device_time,residual_s,verified_by,status

@@ -1,0 +1,1 @@
+feeding_id,session_id,scene_id,pen_id,feeding_round,planned_at,work_started_at,access_started_at,feeding_ended_at,time_source,time_uncertainty_s,feed_batch_id,diet_stage,offered_kg,residual_kg,spillage_kg,measurement_status,order_in_scene,recorder_id,notes

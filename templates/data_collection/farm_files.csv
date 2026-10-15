@@ -1,0 +1,1 @@
+file_id,session_id,scene_id,camera_id,card_id,device_setting_id,relative_path,bytes,sha256,device_start,device_end,duration_s,video_codec,width_px,height_px,fps,audio_track_present,audio_codec,audio_sample_rate_hz,audio_channels,read_status,playback_check_scope,video_sync_id,audio_sync_id,copy_A_verified_at,copy_B_verified_at,retain_status,qc_note
