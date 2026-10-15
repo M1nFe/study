@@ -1,6 +1,6 @@
 **SoundWel 검증 → 원고 → 음성·행동 후속 연구 가이드맵**
 
-**2026-10-15 현재 우선순위:** [전체 실험과 데이터 수집 계획](data_collection_master_plan.md)과 [8주 커리큘럼](../curriculum.md)을 따른다. SoundWel은 [10월 12일 맥락 전이 실험](context_transfer_design.md), 농장은 두 인접 돈방의 Tapo 내장 음성·SD 수집을 병행한다. 아래 10월 8일 연구 프로그램은 배경과 이전 계획이며, 현재 H1/H2·일정·수집 규칙을 덮어쓰지 않는다. 현장 수집은 첫 원고의 완료 조건이 아니다.
+**2026-10-16 현재 우선순위:** [전체 실험과 데이터 수집 계획](data_collection_master_plan.md)과 [8주 커리큘럼](../curriculum.md)을 따른다. SoundWel은 [10월 12일 맥락 전이 실험](context_transfer_design.md), 농장은 두 인접 돈방의 Tapo 내장 음성·SD 수집을 병행한다. 아래 10월 8일 연구 프로그램은 배경과 이전 계획이며, 현재 H1/H2·일정·수집 규칙을 덮어쓰지 않는다. 현장 수집은 첫 원고의 완료 조건이 아니다.
 
 [시작](../README.md) · [커리큘럼](../curriculum.md) · [실행 명세](soundwel_execution.md) · [Lee 2024 연결](lee2024_bridge.md) · [진도](../progress.md)
 

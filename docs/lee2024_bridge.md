@@ -2,7 +2,7 @@
 
 [시작](../README.md) · [가이드맵](roadmap.md) · [실행 계획](soundwel_execution.md) · [참고문헌](../references/soundwel_resilience.md)
 
-**2026-10-15 현재 실행:** SoundWel은 [맥락 전이 H1/H2](context_transfer_design.md), 농장은 [통합 수집 계획](data_collection_master_plan.md)을 따른다. 아래 F1~F3은 확장 연구의 질문이며 모두를 현재 파일럿에서 검정하는 것은 아니다. 기본 장비에는 환경 로거가 없고 세 개의 짧은 관찰창으로 회복 시간을 추정하지 않는다.
+**2026-10-16 현재 실행:** SoundWel은 [맥락 전이 H1/H2](context_transfer_design.md), 농장은 [통합 수집 계획](data_collection_master_plan.md)을 따른다. 아래 F1~F3은 확장 연구의 질문이며 모두를 현재 파일럿에서 검정하는 것은 아니다. 기본 장비에는 환경 로거가 없고 세 개의 짧은 관찰창으로 회복 시간을 추정하지 않는다.
 
 2026-10-08. 추천 연결은 **“스트레스 이후의 반응과 회복을 관찰하려면, 먼저 음향 측정이 무엇을 반영하는지 검증해야 한다”**이다. 첫 공개자료 원고는 음향 측정·평가 방법을 다루고, 현장 후속 연구는 시간에 따른 음성·행동 변화를 다룬다.
 
